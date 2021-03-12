@@ -1,5 +1,5 @@
 {
-  "name": "pdf-generator",
+  "name": "@root-kings/pdf-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
