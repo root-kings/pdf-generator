@@ -1,0 +1,19 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/root-kings/pdf-generator.git"
+  },
+  "author": "Krushn Dayshmookh <krushndayshmookh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/root-kings/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/root-kings/pdf-generator#readme"
+}
