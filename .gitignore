@@ -189,3 +189,6 @@ $RECYCLE.BIN/
 
 # Output
 out/
+
+# packages
+packages/
